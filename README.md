@@ -1,4 +1,4 @@
-Snake Game using Python
+Snake Game using Python  
 Description
 This project is a modern take on the classic Snake game, developed in Python using the Turtle graphics library for rendering and Pygame for sound effects. The game features multiple levels, dynamic gameplay, and an immersive experience with integrated sound effects.
 Features
